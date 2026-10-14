@@ -1,0 +1,14 @@
+{
+  "name": "design-review-skills",
+  "description": "Design review skills for Claude: a Dieter Rams product-judgement review and a UI craft review.",
+  "owner": {
+    "name": "Harry Nightingall"
+  },
+  "plugins": [
+    {
+      "name": "design-review",
+      "source": "./",
+      "description": "Dieter Rams product-judgement review and UI craft review skills."
+    }
+  ]
+}

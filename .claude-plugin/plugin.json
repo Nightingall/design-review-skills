@@ -1,0 +1,10 @@
+{
+  "name": "design-review",
+  "version": "1.0.0",
+  "description": "Two design review skills for Claude: a Dieter Rams product-judgement review (should this exist, does it serve the user?) and a UI craft review (is it built with care?).",
+  "author": { "name": "Harry Nightingall" },
+  "homepage": "https://github.com/Nightingall/design-review-skills",
+  "repository": "https://github.com/Nightingall/design-review-skills",
+  "license": "MIT",
+  "keywords": ["design", "ui", "review", "dieter-rams", "typography", "craft"]
+}
