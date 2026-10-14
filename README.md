@@ -37,8 +37,16 @@ They then work as `/dieter-rams-review` and `/ui-craft-review`.
 
 ### Claude app and claude.ai
 
-1. Download `dieter-rams-review.zip` and `ui-craft-review.zip` from the [latest release](https://github.com/Nightingall/design-review-skills/releases/latest).
-2. In Claude, open **Settings → Capabilities → Skills** and upload each zip.
+No technical setup needed. On a computer:
+
+1. Download both zips (don't unzip them): [dieter-rams-review.zip](https://github.com/Nightingall/design-review-skills/releases/latest/download/dieter-rams-review.zip) and [ui-craft-review.zip](https://github.com/Nightingall/design-review-skills/releases/latest/download/ui-craft-review.zip).
+2. In Claude, open **Settings → Capabilities** and check **Code execution and file creation** is switched on.
+3. Go to **Customize → Skills**, click **+**, then **Create skill → Upload a skill**. Upload the first zip, then repeat for the second.
+4. Check both skills are switched on in your skills list.
+
+Then ask Claude for a "Rams review" or a "UI craft review" and share a screenshot, link or design.
+
+On a Mac with Safari, the download may unzip itself into a folder. If so, right-click the folder, choose **Compress**, and upload the new zip.
 
 ## What's inside
 
